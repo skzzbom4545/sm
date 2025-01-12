@@ -1,0 +1,33 @@
+/*table{
+    border-style: solid;
+    border-width: 3px;
+    border-color: green;
+}
+td{
+    border-style: solid;
+    border-width: 3px;
+    border-color: green;
+}
+
+table{
+    border-style: solid;
+    border-width: 2px;
+    border-color: red;
+}
+td{
+    border-style: solid;
+    border-width: 2px;
+    border-color: red;
+}
+*/
+
+table{
+    border-style: solid;
+    border-width: 3px;
+    border-color: green;
+}
+td{
+    border-style: solid;
+    border-width: 3px;
+    border-color: green;
+}
