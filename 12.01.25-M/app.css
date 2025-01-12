@@ -1,0 +1,308 @@
+.block {
+    width: 100%;
+    height: 500px;
+    margin: 40px 10px;
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+}
+
+.block1 {
+    width: 22%;
+    height: 500px;
+    padding: 1px;
+    box-sizing: border-box;
+    box-shadow: 2px 2px 2px 2px rgb(187, 184, 184);
+
+}
+
+.nkar {
+    width: 100%;
+    height: 220px;
+    background: white;
+}
+
+.nkar img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: top;
+}
+
+.boxx {
+    display: flex;
+    width: 100%;
+    height: fit-content;
+    padding: 10px;
+    background: white;
+    box-sizing: border-box;
+    gap: 20px;
+
+}
+
+.box {
+    width: 100px;
+    height: 22px;
+    background-color: rgb(239, 235, 235);
+    border-radius: 10px;
+    text-align: center;
+    margin: 10px;
+}
+
+.sm,
+h2 {
+    margin: 8px 6px;
+    font-family: sans-serif;
+    font-size: 25px;
+    margin: 0px 10px;
+}
+
+.ms {
+    display: flex;
+    margin: 6px 12px;
+    gap: 20px;
+}
+
+.smm {
+    color: rgb(144, 147, 150);
+    text-decoration: line-through;
+    margin: 0px 10px;
+}
+
+.mms {
+    width: 70px;
+    height: 22px;
+    border-radius: 5px;
+    display: flex;
+    background-color: rgb(14, 153, 65);
+    color: white;
+    text-align: center;
+    margin: 0px 10px;
+}
+
+.tt span {
+    margin: 0 3px;
+}
+
+.astxer span {
+    color: rgb(144, 147, 150);
+    margin: 0px 10px;
+}
+
+.astxer {
+    display: flex;
+    gap: 8px;
+    margin: 18px 8px;
+}
+
+.astxer i {
+    color: yellow;
+
+}
+
+.but1 {
+    color: white;
+    background-color: rgb(249, 224, 2);
+    border: none;
+    font-size: 20px;
+    width: 50%;
+    height: 35px;
+    border-radius: 6px;
+    float: left;
+    margin: 2px 10px;
+}
+
+.but2 {
+    color: white;
+    background-color: rgb(216, 0, 0);
+    border: none;
+    font-size: 20px;
+    width: 50%;
+    height: 35px;
+    border-radius: 6px;
+    float: left;
+    margin: 2px 10px;
+}
+
+.but3 {
+    color: white;
+    background-color: rgba(123, 123, 123, 0.775);
+    border: none;
+    font-size: 20px;
+    width: 50%;
+    height: 35px;
+    border-radius: 6px;
+    float: left;
+    margin: 2px 10px;
+}
+
+.buttonss {
+    margin: 0 8px;
+    align-items: center;
+}
+
+.butt i {
+    color: rgba(67, 67, 67, 0.775);
+}
+
+.buttonss i {
+    background-color: rgb(196, 200, 204);
+    width: 12%;
+    height: 35px;
+    border-radius: 6px;
+    float: left;
+    margin: 0 8px;
+    text-align: center;
+    align-content: center;
+}
+
+
+
+
+.block3 {
+    width: 100%;
+    height: 300px;
+    margin: 40px 10px;
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+}
+
+.block2 {
+    width: 22%;
+    height: 450px;
+    padding: 1px;
+    box-sizing: border-box;
+    box-shadow: 2px 2px 2px 2px rgb(187, 184, 184);
+
+}
+
+.nkar1 {
+    width: 100%;
+    height: 220px;
+    background: white;
+}
+
+.nkar1 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: top;
+}
+
+.bomx {
+    display: flex;
+    width: 100%;
+    height: fit-content;
+    padding: 10px;
+    background: white;
+    box-sizing: border-box;
+    gap: 20px;
+
+}
+
+.boxm {
+    width: 100;
+    height: 22px;
+    text-align: center;
+    margin: 5px;
+}
+
+
+.tommy {
+    margin: 0px 5px;
+    background-color: blue;
+    border-radius: 0px;
+    width: 30px;
+    height: 20px;
+    text-align: center;
+}
+
+.tommy1 {
+    margin: 0px 5px;
+    color: rgb(63, 63, 63)
+}
+
+.tommy2 {
+    margin: 0px 0px;
+    color: rgb(255, 6, 6)
+}
+
+.boxing {
+    display: flex;
+    width: 100%;
+    height: fit-content;
+    padding: 10px;
+    background: white;
+    box-sizing: border-box;
+    gap: 2px;
+}
+
+.boxj {
+    align-items: center;
+    display: flex;
+    width: 100%;
+    height: 50px;
+    height: fit-content;
+    padding: 10px;
+    box-sizing: border-box;
+    color: rgb(63, 63, 63)
+}
+
+.avatar {
+    vertical-align: middle;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    margin: 0px 0px 0px 5px;
+}
+
+.boxjj {
+    display: flex;
+    height: fit-content;
+    background: white;
+    box-sizing: border-box;
+    gap: 2px;
+}
+
+.line {
+    width: 150%;
+}
+
+.rty {
+    align-items: center;
+    display: flex;
+    width: 100%;
+    height: 50px;
+    height: fit-content;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.karmir {
+    margin: 10px 10px 10px 10px;
+    color: rgb(255, 6, 6)
+}
+
+
+.ikonaner {
+    display: flex;
+    gap: 8px;
+    margin: 18px 8px;
+}
+
+.ikonaner i {
+    color: rgb(63, 63, 63)
+}
+
+.ikonaner span {
+    color: rgb(144, 147, 150);
+}
+
+.lll {
+    align-items: center;
+    display: flex;
+    width: 100%;
+    height: fit-content;
+    box-sizing: border-box;
+}
