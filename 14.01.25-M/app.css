@@ -1,0 +1,136 @@
+.mecdiv {
+
+    height: 1100px;
+
+}
+
+
+
+.pineapple {
+    width: fit-content;
+    height: 70px;
+    font-style: solid 1px;
+    background-color: rgb(232, 232, 232);
+
+
+}
+
+.ikonaner i {
+    color: rgb(58, 55, 55);
+
+    height: 70px;
+    margin: 0px 255px;
+    font-size: 50px;
+    display: flex;
+
+
+}
+
+.b,
+h1 {
+    color: rgb(58, 55, 55);
+    width: 100%;
+    height: 70px;
+    margin: 10px;
+    font-size: 35px;
+
+}
+
+.dexin {
+    width: fit-content;
+    height: 35px;
+    background-color: yellow;
+    width: 100%;
+
+
+}
+
+
+.erkrord {
+    width: 100%;
+    height: 35px;
+    margin: 0 20px;
+    color: rgb(58, 55, 55);
+
+}
+
+.ban {
+    padding: 10px;
+    margin: 0px 250px;
+}
+
+.hushum {
+    margin: 0 170px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(214, 210, 210);
+}
+
+.temp {
+    padding: 10px;
+    margin: 0px 250px;
+    font-size: 15px;
+    width: 70%;
+}
+
+.but {
+    background-color: red;
+    margin: 0 20px;
+    display: flex;
+    justify-content: end;
+}
+
+.gic {
+    border-bottom: 10px;
+}
+
+.mega h2 {
+    padding: 10px;
+    margin: 1px 250px;
+    font-size: 25px;
+    height: 10px;
+    color: rgb(84, 97, 3);
+
+}
+
+.ab {
+    float: right;
+
+    width: 25%;
+    padding-bottom: 20%;
+    margin: 1.66%;
+    height: 0px;
+}
+
+
+
+.img {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    margin: 20px 0;
+
+}
+
+.ddd {
+    border: 10px solid rgb(131, 125, 125);
+}
+
+.i h2 {
+    font-size: 5px
+}
+
+.avart {
+    background-color: yellow;
+    width: 100%;
+    height: 200px;
+}
+
+.avart4 {
+    width: 100%;
+}
+
+.p {
+    margin: 0 20px;
+}
